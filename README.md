@@ -1,1 +1,1 @@
-# Laravel-Simple-CRUD
+# Simple Laravel CRUD
